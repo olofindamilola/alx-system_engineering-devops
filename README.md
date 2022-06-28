@@ -1,1 +1,1 @@
-My first shell redirection readme
+my shell expansions
